@@ -1,7 +1,8 @@
 {
 	"name": "@sftinc/text-utilities",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A collection of text processing utilities",
+	"author": "See Fusion Technologies, Inc.",
 	"main": "./src/index.js",
 	"exports": {
 		".": "./src/index.js"
@@ -15,7 +16,6 @@
 		"markdown",
 		"json"
 	],
-	"author": "SFT Inc",
 	"license": "MIT",
 	"type": "module",
 	"repository": {

@@ -1,7 +1,7 @@
 {
 	"name": "@sftinc/text-utilities",
 	"version": "0.1.0",
-	"description": "",
+	"description": "A collection of text processing utilities",
 	"main": "./src/index.js",
 	"exports": {
 		".": "./src/index.js"
@@ -9,8 +9,17 @@
 	"scripts": {
 		"start": "node test.js"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"text",
+		"utilities",
+		"markdown",
+		"json"
+	],
+	"author": "SFT Inc",
 	"license": "MIT",
-	"type": "module"
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sftinc/text-utilities.git"
+	}
 }
